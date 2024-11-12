@@ -2,8 +2,8 @@
 
 # Tools:
 
-SSIS
-SQL Server
+- SSIS
+- SQL Server
 
 # Dataset:
 it's a generated data by AI tool and it contains data customers and thier purchases.
