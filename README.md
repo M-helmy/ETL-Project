@@ -1,17 +1,17 @@
 # Sales Data
 
-#Tools:
+# Tools:
 
 SSIS
 SQL Server
 
-Dataset:
+# Dataset:
 it's a generated data by AI tool and it contains data customers and thier purchases.
 
-Objective:
+# Objective:
 Calculating the total amount for each customer for each purchase he made and validating the dataset for missing and outliers values.
 
-#Steps:
+# Steps:
 
 loaded the dataset into SSIS, I have used Data COnversion tool to match the data types.
 
