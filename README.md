@@ -1,4 +1,4 @@
-# ETL-Project
+# Sales Data
 In this project I have used SSIS package to make some simple transformation on the dataset.
 First of all, I have used Data Conversion to match the data type
 Next, I used Derived Column to add new columns (TotalAmount which calculate the total amount price for each customer)
